@@ -3,8 +3,7 @@
 ### Anthonella Beatrice de Morais 
 - 👋 Olá,meu Username é: @AnthonellaBepp
 - 👀 Meu e-mail é anthonella.morais@escola.pr.gov.br
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 AnthonellaBepp/AnthonellaBepp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
